@@ -1,1 +1,13 @@
 该文件夹存放的是第三方应用
+1,emby
+2,bililive-go
+3,penpot
+4,shadowsocks
+5,privoxy
+6,git&git-lfs
+7,VALL-E-X
+8,docker
+9,sherpa-onnx
+10,sherpa-ncnn
+11,whisper
+12,huggingface-cli
